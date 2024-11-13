@@ -11,9 +11,10 @@ Mục tiêu là khám phá, tối ưu độ chính xác và mở rộng khả n�
 -----
 # Giới thiệu về Dataset
 Dataset này chứa các thông tin giá giao dịch chứng khoán, bao gồm các feature:
-• Date: Ngày giao dịch.
-• Open: Giá mở cửa của cổ phiếu trong ngày.
-• High: Giá cao nhất trong ngày.
-• Low: Giá thấp nhất trong ngày.
-• Close: Giá đóng cửa, thường dùng để đánh giá xu hướng thị trường.
-• Volume: Khối lượng giao dịch, phản ánh mức độ hoạt động của cổ phiếu.
+
+ • Date: Ngày giao dịch.
+ • Open: Giá mở cửa của cổ phiếu trong ngày.
+ • High: Giá cao nhất trong ngày.
+ • Low: Giá thấp nhất trong ngày.
+ • Close: Giá đóng cửa, thường dùng để đánh giá xu hướng thị trường.
+ • Volume: Khối lượng giao dịch, phản ánh mức độ hoạt động của cổ phiếu.
