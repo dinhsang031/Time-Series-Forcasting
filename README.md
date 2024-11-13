@@ -1,6 +1,6 @@
 # Time-Series-Forcasting
 So sánh các thuật toán ARIMA, Auto ARIMA, đến Machine Learning (Random Forest, XGBoost) và Deep Learning (LSTM) trong việc dự báo giá chứng khoán.
-Mục tiêu là khám phá, tối ưu độ chính xác và mở rộng khả năng ứng dụng trong các bối cảnh thực tế đó dự báo giá chứng khoán của Google
+Mục tiêu là khám phá, tối ưu độ chính xác và mở rộng khả năng ứng dụng trong các bối cảnh thực tế đó dự báo giá chứng khoán của Công ty Google.
 --------
 # Outline
   1. Tạo ARIMA (SARIMA) model để dự báo
